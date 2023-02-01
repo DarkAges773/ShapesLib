@@ -1,2 +1,2 @@
 # ShapesLib
-Тестовое задание для MindBox
+Тестовое задание для Mindbox
